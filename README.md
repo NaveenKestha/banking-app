@@ -9,6 +9,7 @@ Developed a simple version of a banking application using **Java**, **Spring Boo
 - Create bank accounts
 - View account details
 - Deposit and withdraw money
+- Delete accounts
 - RESTful APIs with Spring Boot
 - MySQL database integration
 
@@ -16,10 +17,9 @@ Developed a simple version of a banking application using **Java**, **Spring Boo
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Java, Spring Boot
+- **Backend**: Java, Spring Boot, Spring Data JPA
 - **Database**: MySQL
-- **Tools**: Maven, Spring Tool Suite (STS)
+- **Tools**: Maven, Spring Tool Suite (STS), Postman
 - **Version Control**: Git & GitHub
 
 ---
-
