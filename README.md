@@ -1,6 +1,6 @@
 # Banking Application 🏦
 
-A simple banking management system built using **Spring Boot**, **Java**, and **MySQL**. This project demonstrates account creation, balance checking, deposits, and withdrawals.
+Developed a simple version of a banking application using  **Java**, **Spring Boot**, and **MySQL**. to perform basic backend banking operations.Implemented RESTful APIs for functionalities such as creating accounts, retrieving account details, making deposits and withdrawals, and deleting accounts.
 
 ---
 
