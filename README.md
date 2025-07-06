@@ -1,6 +1,6 @@
 # Banking Application 🏦
 
-Developed a simple version of a banking application using  **Java**, **Spring Boot**, and **MySQL**. to perform basic backend banking operations.Implemented RESTful APIs for functionalities such as creating accounts, retrieving account details, making deposits and withdrawals, and deleting accounts.
+Developed a simple version of a banking application using **Java**, **Spring Boot**, and **Spring Data JPA** to perform basic backend banking operations.Implemented RESTful APIs for functionalities such as creating accounts, retrieving account details, making deposits and withdrawals, and deleting accounts.
 
 ---
 
